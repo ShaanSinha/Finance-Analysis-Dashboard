@@ -20,3 +20,6 @@ An interactive Finance Performance Dashboard built using Power BI to analyze com
 - Created KPIs and measures using DAX
 - Designed interactive visuals in Power BI
 - Analyzed financial trends and spending behavior
+
+## Conclusion
+This project demonstrates how raw financial data can be transformed into meaningful business insights through effective dashboard design and analytics. It highlights practical business analyst skills including KPI reporting, financial analysis, and data storytelling using Power BI.
